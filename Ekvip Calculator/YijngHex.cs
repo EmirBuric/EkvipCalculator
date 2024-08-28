@@ -14,8 +14,11 @@ namespace Ekvip_Calculator
         public char RandHex()
         {
             Random random = new Random();
-            int hex = random.Next(0x4DC0, 0x4DFF+1);
-            return (char) hex;
+            //int hex = random.Next(0x4DC0, 0x4DFF+1);//Hexadecimal
+            int hex = random.Next(19904, 19968); //Decimal
+
+            //return (char) hex;
+            return Convert.ToChar(hex);
         }
     }
 }

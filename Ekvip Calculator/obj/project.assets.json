@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burke\\source\\repos\\Ekvip Calculator\\Ekvip Calculator\\Ekvip Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Burke\\Documents\\GitHub\\EkvipCalculator\\Ekvip Calculator\\Ekvip Calculator.csproj",
       "projectName": "Ekvip Calculator",
-      "projectPath": "C:\\Users\\Burke\\source\\repos\\Ekvip Calculator\\Ekvip Calculator\\Ekvip Calculator.csproj",
+      "projectPath": "C:\\Users\\Burke\\Documents\\GitHub\\EkvipCalculator\\Ekvip Calculator\\Ekvip Calculator.csproj",
       "packagesPath": "C:\\Users\\Burke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burke\\source\\repos\\Ekvip Calculator\\Ekvip Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Burke\\Documents\\GitHub\\EkvipCalculator\\Ekvip Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

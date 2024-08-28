@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ekvip_Calculator
-build_property.ProjectDir = C:\Users\Burke\source\repos\Ekvip Calculator\Ekvip Calculator\
+build_property.ProjectDir = C:\Users\Burke\Documents\GitHub\EkvipCalculator\Ekvip Calculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -42,9 +42,9 @@ using System.Text.RegularExpressions;
                 }
             }
             //If there was an invalid input of the equation the program will throw an exception
-            catch (Exception)
+            catch (Exception e)
             {
-                Console.WriteLine("Please enter a valid equation");
+                Console.WriteLine("Please enter a valid equation: "+e.Message);
             }
         
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ekvip Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493f3185b389267762612639882f042af4c70509")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ekvip Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ekvip Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
