@@ -14,7 +14,8 @@ namespace Ekvip_Calculator
         public Calculator(string str) {
             equation = str;
         }
-        //Method to parse the correctly inputed equation from a string using Datatable().Compute
+        //Method to parse the correctly inputed equation from a string using
+        //Shunting algorithm and Polish reverse notation
         public float Result()
         {
             
